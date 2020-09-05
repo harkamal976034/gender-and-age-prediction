@@ -1,5 +1,3 @@
-# gender-and-age-prediction
-
 
 # About this project
 With this model we can predict the gender and age of the person by detecting the face in the image or by the webcam live image.
