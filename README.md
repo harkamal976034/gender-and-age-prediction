@@ -9,14 +9,17 @@ sample images-
 
 Face prototype and model used-
 1.opencv_face_detector.pbtxt
+
 2.opencv_face_detector_uint8.pb
 
 Age prototype and model used-
 1.age_deploy.prototxt
+
 2.age_net.caffemodel
 
 Gender prototype and model used-
 1.gender_deploy.prototxt
+
 2.gender_net.caffemodel
 
 Main project file is the "gender_age1.py".
