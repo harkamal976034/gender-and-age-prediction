@@ -1,3 +1,5 @@
+# How to use this project
+open command prompt and type python gender_age1.jpg if you want to predict your age and gender using your webcam and type python gender_age1.jpg -i 'image path' if you want to predict using any image and press enter.
 
 # About this project
 With this model we can predict the gender and age of the person by detecting the face in the image or by the webcam live image.
